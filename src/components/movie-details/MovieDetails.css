@@ -1,0 +1,15 @@
+.movie-details {
+    margin:20px 0px 20px 0px;
+    background-color: #2e618d;
+    color: #f9f9f9
+}
+
+.movie-details-title:hover {
+    background-color: #428bca;
+}
+
+.movie-details-title {
+    background-color: #13293c;
+    padding: 10px 0px 10px 0px;
+}
+
