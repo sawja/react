@@ -8,6 +8,22 @@ https://medium.com/@thejasonfile/fetch-vs-axios-js-for-making-http-requests-2b26
 https://daveceddia.com/where-fetch-data-componentwillmount-vs-componentdidmount/
 
 
+Create react app based on design below:
+
+1. Navigation bar contains item "Posts" with counter in it - it describes number of posts to show.
+2. If user goes to '/posts' route he will see design from above link.
+3. If user goes to '/home' or '/' route, he will see nothing but top navbar.
+4. List of posts shows:
+ a. Title,
+ b. Image placeholder (you can generate it from https://placeholder.com/)
+ c. Comments count - if no comments show green label with no comments inside.
+ d. Read more button with route /post/:id in it. (detailed view will be as next task - don't bother handling this route now)
+ e. Post content trimmed to max 200 characters (if more dot it ...)
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
