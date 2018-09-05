@@ -5,6 +5,7 @@ https://medium.com/@kswanie21/css-modules-sass-in-create-react-app-37c3152de9
 https://codeburst.io/no-redux-strategy-for-siblings-communication-3db543538959
 https://medium.com/@Connorelsea/using-sass-with-create-react-app-7125d6913760
 https://medium.com/@thejasonfile/fetch-vs-axios-js-for-making-http-requests-2b261cdd3af5
+https://daveceddia.com/where-fetch-data-componentwillmount-vs-componentdidmount/
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
