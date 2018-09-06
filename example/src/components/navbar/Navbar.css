@@ -1,0 +1,10 @@
+.component-navbar {
+  display: flex;
+  align-items: center;
+  width: 100;
+  background: #4a4a4a;
+  padding: 0 20px; }
+  .component-navbar .nav-list {
+    list-style: none; }
+  .component-navbar .nav-link {
+    color: #f9f9f9; }

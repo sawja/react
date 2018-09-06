@@ -1,0 +1,14 @@
+.component-navbar {
+    display: flex;
+    align-items: center;
+    width: 100;
+    background: #4a4a4a;
+    padding: 0 20px;
+    .nav-list {
+        list-style: none;
+    }
+    .nav-link {
+        color: #f9f9f9;
+    }
+}
+

@@ -1,0 +1,11 @@
+.component-post-details {
+  background: #f9f9f9;
+  display: flex;
+  margin: 40px 0; }
+  .component-post-details .post-img {
+    width: 64px;
+    height: 64px; }
+  .component-post-details .section__title {
+    font-size: 24px; }
+  .component-post-details .section__body {
+    font-size: 14px; }
