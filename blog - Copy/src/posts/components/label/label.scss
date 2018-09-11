@@ -1,0 +1,16 @@
+@mixin container() {
+    color: white;
+    border-radius: 5px;
+    padding: 2px 10px;
+    margin: 0 15px;
+}
+
+.container--green {
+    @include container;
+    background: #5cb85c;
+}
+
+.container--red {
+    @include container;
+    background: #d9534f;
+}

@@ -1,0 +1,1 @@
+export const GET_NUMBER_OF_POSTS = 'GET_NUMBER_OF_POSTS';

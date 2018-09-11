@@ -1,0 +1,26 @@
+$bootstrap-blue: #428bca;
+
+@mixin link($font-size) {
+    text-decoration: none;
+    color: white;
+    font-size: $font-size;
+}
+
+.nav {
+    background: $bootstrap-blue;
+    display: flex;
+    align-items: center;
+    padding: 10px 20px;
+}
+
+.nav__title {
+    @include link(25px);
+}
+
+.nav__list {
+    list-style: none;
+}
+
+.nav__list__item__link {
+    @include link(20px);
+}
